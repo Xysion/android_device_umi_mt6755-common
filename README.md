@@ -1,7 +1,7 @@
-UMI's MT6755 common - CyanogenMod 13.0/AOSP
+UMI's MT6755 common - LineageOS 14.1/AOSP
 ==============
 
-This branch is device for building of the CyanogenMod 13.0 and Android Marshmallow 6.X AOSP ROMs.
+This branch is device for building of the LineageOS 14.1 and Android Nougat 7.X AOSP ROMs.
 
 ---
 
